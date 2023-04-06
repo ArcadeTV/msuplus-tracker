@@ -37,3 +37,11 @@ Follow the converstion in the *development* section on the zeldix forums.
 * [ ] Aladdin (MSU-MD/MD+)
 * [ ] Ristar (MSU-MD/MD+)
 * [ ] Dynamite Headdy (MSU-MD/MD+)
+
+---
+
+### Sneek Peeks
+
+I'll drop recordings of current work-in-progress patches in my gDrive folder here:
+
+[previews.arcade-tv.de](http://previews.arcade-tv.de)

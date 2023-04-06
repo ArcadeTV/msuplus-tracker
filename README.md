@@ -1,4 +1,5 @@
-# msu-md-general
-### Leave your feedback, thoughts and requests about msu-md patches here.
+# ArcadeTV MD+ and MSU-MD Issue Tracker
 
-Use the [issue tracker](https://github.com/ArcadeTV/msu-md-general/issues) to leave your comment.
+### Leave your bug-report, feedback, thoughts and requests about md+ and msu-md patches here.
+
+Use the [issue tracker](https://github.com/ArcadeTV/msuplus-tracker/issues) to leave your comment.

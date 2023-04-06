@@ -30,6 +30,16 @@ Follow the converstion in the *development* section on the zeldix forums.
 
 ---
 
+### What to test
+
+* [x] General playback: is the audio playing, stopping or fading correctly?
+* [x] Pause function, may not be implemented yet in beta versions. Playback pausing/resuming should be identical to the original game's behaviour.
+* [x] Different platforms: MegaSD, Mega Everdrive Pro, RetroArch /w Genesis-Plus-GX core, MiSTer (MD+ not yet compatible)
+* [x] Resetting/Restarting
+* [x] A complete playthrough would be A+, you could use cheat codes to speed up the process.
+
+---
+
 ### Games that will be released as reward when testing for one of pending games is complete
 
 * [ ] Global Gladiators (MSU-MD/MD+)

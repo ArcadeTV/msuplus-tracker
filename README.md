@@ -40,6 +40,12 @@ Follow the converstion in the *development* section on the zeldix forums.
 
 ---
 
+### When do tests end?
+
+I will green-light a patch when at least 2 users claim, that the game was extensively tested without any issues.
+
+---
+
 ### Games that will be released as reward when testing for one of pending games is complete
 
 * [ ] Global Gladiators (MSU-MD/MD+)

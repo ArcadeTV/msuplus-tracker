@@ -73,6 +73,6 @@ Please note that my knowledge about all this is limited. As of today I can creat
 * Cube
 * TecnoSoft
 
-I can try to interface any other games but it's not guaranteed to work. 
+I can try to interface any other games but it's not guaranteed to work. Please see [this list](https://gdri.smspower.org/wiki/index.php/Mega_Drive/Genesis_Sound_Driver_List) to identify the driver being used prior to asking for new patches.
 
 The Electronic Arts sound drivers are above my head. Audios Wave Slave MD is also giving me a hard time since 2021.

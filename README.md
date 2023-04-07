@@ -61,3 +61,18 @@ I will green-light a patch when at least 2 users claim, that the game was extens
 I'll drop recordings of current work-in-progress patches in my gDrive folder here:
 
 [previews.arcade-tv.de](http://previews.arcade-tv.de)
+
+---
+
+### Requesting new patches
+
+Please note that my knowledge about all this is limited. As of today I can create patches for games that use the following sound drivers:
+* SMPS
+* GEMS
+* Krisalis
+* Cube
+* TecnoSoft
+
+I can try to interface any other games but it's not guaranteed to work. 
+
+The Electronic Arts sound drivers are above my head. Audios Wave Slave MD is also giving me a hard time since 2021.

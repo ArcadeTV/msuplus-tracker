@@ -57,13 +57,16 @@ I will green-light a patch when at least 2 users claim, that the game was extens
 
 ---
 
-### Games that will be released as reward when testing for one of pending games is complete
+### Games that will be queued for testing each time the no. of pending games drops below 5:
 
-* [ ] Global Gladiators (MSU-MD/MD+)
-* [ ] The Jungle Book (MSU-MD/MD+)
 * [ ] Aladdin (MSU-MD/MD+)
-* [ ] Ristar (MSU-MD/MD+)
 * [ ] Dynamite Headdy (MSU-MD/MD+)
+* [ ] Global Gladiators (MSU-MD/MD+)
+* [ ] Landstalker (MSU-MD/MD+)
+* [ ] Ristar (MSU-MD/MD+)
+* [ ] Sonic 3D Blast Director's Cut (MSU-MD/MD+)
+* [ ] The Jungle Book (MSU-MD/MD+)
+* [ ] Zombies ate my Neighbor (MSU-MD/MD+)
 
 ---
 

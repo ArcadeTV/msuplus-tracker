@@ -23,11 +23,21 @@ Follow the converstion in the *development* section on the zeldix forums.
 ### Current games that need testing
 
 * [ ] Columns (MSU-MD) <br> Columns (USA, Europe).md | D783C244
-* [ ] Dr. Robotnik's Mean Bean Machine (MD+) [soundPack missing] <br> 
+* [ ] Dr. Robotnik's Mean Bean Machine (MD+) [soundPack missing] <br> Dr. Robotnik's Mean Bean Machine (USA).md | C7CA517F
 * [ ] Flicky (MSU-MD/MD+) <br> Flicky (USA, Europe).md | 4291C8AB
-* [ ] Joe & Mac (MD+) <br> Joe & Mac (USA).md | AA9A21A8 <br> prepatch with [Enhanced Colors by Pyron](https://www.romhacking.net/hacks/2276/)
+* [ ] Joe & Mac (MD+) <br> Joe & Mac (USA).md | 85BCC1C7 <br> prepatch with [Enhanced Colors by Pyron](https://www.romhacking.net/hacks/2276/) | AA9A21A8
 * [ ] The Lion King (MD+) <br> Lion King, The (World).md | 5696A5BC
 * [ ] Thunderforce IV (MD+) [soundPack missing] <br> Thunder Force IV (Japan) (En) (Sega Ages).md | 311D9D4A
+
+_(All roms come from the current No-Intro set)_
+
+---
+
+### soundPacks
+
+All soundPacks are maintained by Relikk. A link with the packs for the current patches is in the works.
+
+If you need test-tracks for soundPack-creation, you will find numbered text-to-speech wave files in the `audio` folder.
 
 ---
 

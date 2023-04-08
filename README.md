@@ -59,14 +59,18 @@ I will green-light a patch when at least 2 users claim, that the game was extens
 
 ### Games that will be queued for testing each time the no. of pending games drops below 5:
 
-* [ ] Aladdin (MSU-MD/MD+)
-* [ ] Dynamite Headdy (MSU-MD/MD+)
-* [ ] Global Gladiators (MSU-MD/MD+)
-* [ ] Landstalker (MSU-MD/MD+)
-* [ ] Ristar (MSU-MD/MD+)
-* [ ] Sonic 3D Blast Director's Cut (MSU-MD/MD+)
-* [ ] The Jungle Book (MSU-MD/MD+)
-* [ ] Zombies ate my Neighbor (MSU-MD/MD+)
+* [ ] Aladdin
+* [ ] Dynamite Headdy
+* [ ] Earthworm Jim
+* [ ] Earthworm Jim 2
+* [ ] Global Gladiators
+* [ ] Landstalker
+* [ ] Mr. Nutz
+* [ ] Pitfall - The Mayan Adventure
+* [ ] Ristar
+* [ ] Sonic 3D Blast Director's Cut
+* [ ] The Jungle Book
+* [ ] Zombies ate my Neighbor
 
 ---
 

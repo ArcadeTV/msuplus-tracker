@@ -35,7 +35,7 @@ _(All roms come from the current No-Intro set)_
 
 ### soundPacks
 
-All soundPacks are maintained by Relikk. A link with the packs for the current patches is in the works.
+All soundPacks are maintained by Relikk. [This folder](https://mega.nz/folder/5MlkSBqR#ZzodSLacnwV3d9I6mGiYLw) contains soundPacks for current patches in development.
 
 If you need test-tracks for soundPack-creation, you will find numbered text-to-speech wave files in the `audio` folder.
 

@@ -26,7 +26,7 @@ Follow the converstion in the *development* section on the zeldix forums.
 * [ ] Dr. Robotnik's Mean Bean Machine (MD+) [soundPack missing] <br> Dr. Robotnik's Mean Bean Machine (USA).md | C7CA517F
 * [ ] Flicky (MSU-MD/MD+) <br> Flicky (USA, Europe).md | 4291C8AB
 * [ ] Joe & Mac (MD+) <br> Joe & Mac (USA).md | 85BCC1C7 <br> prepatch with [Enhanced Colors by Pyron](https://www.romhacking.net/hacks/2276/) | AA9A21A8
-* [ ] The Lion King (MD+) <br> Lion King, The (World).md | 5696A5BC
+* [x] The Lion King (MD+) <br> Lion King, The (World).md | 5696A5BC <br> _Tests complete. Will be released shortly._
 * [ ] Thunderforce IV (MD+) [soundPack missing] <br> Thunder Force IV (Japan) (En) (Sega Ages).md | 311D9D4A
 
 _(All roms come from the current No-Intro set)_

@@ -57,7 +57,7 @@ I will green-light a patch when at least 2 users claim, that the game was extens
 
 ---
 
-### Games that will be queued for testing each time the no. of pending games drops below 5:
+### Games that will be queued for testing (in no particular order) each time the no. of pending games drops below 5:
 
 * [ ] Aladdin
 * [ ] Dynamite Headdy

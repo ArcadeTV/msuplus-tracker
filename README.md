@@ -22,14 +22,7 @@ Follow the converstion in the *development* section on the zeldix forums.
 
 ### Current games that need testing
 
-* [ ] Columns (MSU-MD) <br> Columns (USA, Europe).md | D783C244
-* [ ] Dr. Robotnik's Mean Bean Machine (MD+) [soundPack missing] <br> Dr. Robotnik's Mean Bean Machine (USA).md | C7CA517F
-* [ ] Flicky (MSU-MD/MD+) <br> Flicky (USA, Europe).md | 4291C8AB
-* [ ] Joe & Mac (MD+) <br> Joe & Mac (USA).md | 85BCC1C7 <br> prepatch with [Enhanced Colors by Pyron](https://www.romhacking.net/hacks/2276/) | AA9A21A8
-* [x] The Lion King (MD+) <br> Lion King, The (World).md | 5696A5BC <br> _Tests complete. Will be released shortly._
-* [ ] Thunderforce IV (MD+) [soundPack missing] <br> Thunder Force IV (Japan) (En) (Sega Ages).md | 311D9D4A
-
-_(All roms come from the current No-Intro set)_
+Please see the [patches folder](https://github.com/ArcadeTV/msuplus-tracker/tree/main/patches) for beta patches.
 
 ---
 
@@ -55,22 +48,7 @@ If you need test-tracks for soundPack-creation, you will find numbered text-to-s
 
 I will green-light a patch when at least 2 users claim, that the game was extensively tested without any issues.
 
----
-
-### Games that will be queued for testing (in no particular order) each time the no. of pending games drops below 5:
-
-* [ ] Aladdin
-* [ ] Dynamite Headdy
-* [ ] Earthworm Jim
-* [ ] Earthworm Jim 2
-* [ ] Global Gladiators
-* [ ] Landstalker
-* [ ] Mr. Nutz
-* [ ] Pitfall - The Mayan Adventure
-* [ ] Ristar
-* [ ] Sonic 3D Blast Director's Cut
-* [ ] The Jungle Book
-* [ ] Zombies ate my Neighbor
+The patch will be added to the zeldix database.
 
 ---
 

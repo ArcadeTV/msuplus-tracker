@@ -32,3 +32,10 @@ pre SMPS 68K
 | --  |  26   | Sound Driver Jingle*                                    |  no  |                        |                                                         |
 
 *custom added tracks
+
+
+### Sound Test
+
+Press Up + A on the title screen. 
+
+_You have to wait for the Start/Continue to show up (or just press C to skip the animated text)._
